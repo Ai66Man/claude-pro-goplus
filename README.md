@@ -8,10 +8,10 @@
 
 **👉 [进入 GoPlus 充值入口，支持微信和支付宝](https://www.goplus.pro/)**
 
-✅ 支持微信 / 支付宝
-✅ 无需海外信用卡
-✅ 使用自己的 Claude 原账号
-⚠️ 第三方充值并非 Anthropic 官方服务，充值前请确认 Organization ID、套餐和订单信息。
+- ✅ 支持微信 / 支付宝
+- ✅ 无需海外信用卡
+- ✅ 使用自己的 Claude 原账号
+充值前请确认 Organization ID、套餐和订单信息，确认无误后再继续。
 
 Claude Pro 对需要长文本处理的人很有价值，但国内用户经常卡在订阅链路：海外支付方式不稳定，地区限制不好处理，续费也需要持续关注。与其反复尝试同一个付款入口，不如先把充值所需信息弄清楚。Claude 的关键不是 Session，而是账号里的 `Organization ID`，充值页面中的 `Claude 用户ID` 通常就需要填写它。
 
@@ -94,7 +94,7 @@ Claude Pro 更适合长内容和复杂资料场景。写作者可以用它改长
 
 ### 充值需要 Claude 密码吗？
 
-不建议提供密码。按这个流程，只需要自己登录 Claude 并复制 `Organization ID`。
+不需要把密码交给别人。按这个流程，只需要自己登录 Claude 并复制 `Organization ID`。
 
 ### 复制 Organization ID 时最容易错在哪里？
 
