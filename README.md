@@ -65,7 +65,7 @@ Claude Pro 对需要长文本处理的人很有价值，但国内用户经常卡
 
 ### 1. 购买 Claude Pro 卡密
 
-进入 GoPlus 充值入口，选择 Claude Pro 对应套餐并完成付款。付款后保存卡密，后续验证会用到。
+进入 [GoPlus](https://www.goplus.pro/) 充值入口，选择 Claude Pro 对应套餐并完成付款。付款后保存卡密，后续验证会用到。
 
 **充值入口：** [https://www.goplus.pro/](https://www.goplus.pro/)
 
@@ -131,7 +131,7 @@ Claude Pro 更适合长内容和复杂资料场景。写作者可以用它改长
 
 ### Claude Pro 支持微信支付宝吗？
 
-可以通过 GoPlus 入口购买 Claude Pro 充值卡密，再按页面步骤完成账号确认和开通。
+可以通过 [GoPlus](https://www.goplus.pro/) 入口购买 Claude Pro 充值卡密，再按页面步骤完成账号确认和开通。
 
 ### Organization ID 可以随便填吗？
 
