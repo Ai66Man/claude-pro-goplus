@@ -185,6 +185,7 @@ Claude Pro 国内充值的核心是准确填写 `Organization ID`。流程是：
 
 - [ChatGPT Plus 国内充值教程](https://github.com/Ai66Man/chatgpt-plus-goplus)
 - [Grok Super 国内充值教程](https://github.com/Ai66Man/grok-super-goplus)
+- [Claude 和 ChatGPT 哪个好用？写作、编程、额度、价格全面对比](https://ai66man.github.io/chatgpt-plus-sub/claude-vs-chatgpt.html)
 
 ## 更新记录
 
